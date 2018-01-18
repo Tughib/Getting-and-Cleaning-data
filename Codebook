@@ -1,0 +1,22 @@
+This codebook focuses on <a href="https://github.com/Tughib/Getting-and-Cleaning-data/blob/master/tidydata.txt">tidydata.txt</a>, which has been generated from its original. 
+Details on the original can be found in <a href="https://github.com/Tughib/Getting-and-Cleaning-data/blob/master/README.md">Readme.md</a>.
+
+The <a href="https://github.com/Tughib/Getting-and-Cleaning-data/blob/master/tidydata.txt">tidydata.txt</a> set contains the average and standard deviation features for each activity and subject.
+
+- The activity labels refer to the type of activity performed by the participating subjects:
+WALKING (value 1): subject was walking during the test;
+WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test;
+WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test;
+SITTING (value 4): subject was sitting during the test;
+STANDING (value 5): subject was standing during the test;
+LAYING (value 6): subject was laying down during the test;
+
+- the (participating) subjects:
+These are the IDd of the participating subjects in the test. 
+Values range from 1 to 30, for 30 total testers.
+
+- for the remaining information, we refer to the .zip file as provided in <a href="https://github.com/Tughib/Getting-and-Cleaning-data/blob/master/README.md">Readme.md</a>:
+On the features (e.g. see features_info.txt in the .zip file);
+On the research setting;
+On the original variables (incl. units), and;
+On the choices made in creating that data, incl. the experimental study design used.
