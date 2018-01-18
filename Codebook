@@ -1,7 +1,7 @@
 This codebook focuses on <a href="https://github.com/Tughib/Getting-and-Cleaning-data/blob/master/tidydata.txt">tidydata.txt</a>, which has been generated from its original. 
 Details on the original can be found in <a href="https://github.com/Tughib/Getting-and-Cleaning-data/blob/master/README.md">Readme.md</a>.
 
-The <a href="https://github.com/Tughib/Getting-and-Cleaning-data/blob/master/tidydata.txt">tidydata.txt</a> set contains the average and standard deviation features for each activity and subject.
+The [tidydata.txt](https://github.com/Tughib/Getting-and-Cleaning-data/blob/master/tidydata.txt) set contains the average and standard deviation features for each activity and subject.
 
 - The activity labels refer to the type of activity performed by the participating subjects:
 WALKING (value 1): subject was walking during the test;
